@@ -12,3 +12,4 @@ Rural areas have the highest average fare per driver but lower total rides and l
 
 This tells us that the fewer drivers and rides in a neighborhood leads to higher fares.
 
+![Pyber_Fare_Summary](https://user-images.githubusercontent.com/59589015/91003412-392c8080-e59f-11ea-960e-390a9bdcfcba.png)
